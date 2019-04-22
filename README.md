@@ -3,20 +3,20 @@
 ## Summary
 
 **[1. Structure](#1-structure)**
+
 **[2. Installing CMake](#2-installing-cmake)**
 
 ## 1. Structure
 
 We'll use the following structure for our folders and files:
 
-.
-+-- CMakeLists.txt
-+-- src
-| +-- _Our source files here_
-+-- includes
-| +-- _Our headers files here_
-+-- build
-| +-- _Our build files here_
+CMakeLists.txt
+src
+_Our source files here_
+includes
+_Our headers files here_
+build
+_Our build files here_
 
 That structure is very simple and makes our work more easier, we'll use it's a lot.
 
