@@ -61,3 +61,10 @@ Ok, the next step is install CMake in our machines.
     > Note: You must change the bold line with the current CMake version (check out in the site)
 
 #### - Windows:
+
+> If you're using **Windows**, follow these steps:
+
+- Download the executable installer on [CMake](http://cmake.org) site.
+- Execute and install the application
+- Certify that *PATH* is correct in _System > Advanced setting > Environment vars_
+
